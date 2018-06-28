@@ -1,0 +1,12 @@
+# Autor : Ankit
+# Date : 19-07-2018 : 17:23:43
+
+Instructions:
+- to add a new point of interest just create a new folder with the name of the point (It should be IWM name, in case name contains space replace space with underscore) and copy the necessary files.
+- list of necessary files (things to configure for each point of interest)
+	- path to flow direction file.
+	- path to grid fraction file.
+	- path to station location file.
+	- input flux directory path.
+	- output directory path. Directory should be named after point of interest.
+	- path to Unit hydrology file.

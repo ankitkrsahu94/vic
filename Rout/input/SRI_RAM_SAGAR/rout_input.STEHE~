@@ -1,0 +1,27 @@
+# Sample Routing Information File; RCSID: $Id: input.sample,v 1.2 2006/08/26 01:26:56 vicadmin Exp $
+# NAME OF FLOW DIRECTION FILE
+/home/iwm-ui/VIC/Rout/input/Sri_Ram_Sagar_Project/STEHE.fdir
+# NAME OF VELOCITY FILE
+.false.
+1.50
+# NAME OF DIFF FILE
+.false.
+800
+# NAME OF XMASK FILE
+.false.
+12500
+# NAME OF FRACTION FILE
+.true.
+/home/iwm-ui/VIC/Rout/input/Sri_Ram_Sagar_Project/STEHE.fract
+# NAME OF STATION FILE
+/home/iwm-ui/VIC/Rout/input/Sri_Ram_Sagar_Project/STEHE.stnloc
+# PATH OF INPUT FILES AND PRECISION
+/home/iwm-ui/VIC/Rout/flux/fluxes_
+3
+# PATH OF OUTPUT FILES
+/home/iwm-ui/VIC/Rout/output/Sri_Ram_Sagar_Project/
+# YEAR AND MONTH OF MODEL OUTPUT TO ROUTE & ROUTED OUTPUT TO WRITE
+2018 06 2018 06 
+2018 06 2018 06 
+# NAME OF UNIT HYDROGRAPH FILE
+/home/iwm-ui/VIC/Rout/input/Sri_Ram_Sagar_Project/UH.all
